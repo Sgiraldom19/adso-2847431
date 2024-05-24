@@ -136,6 +136,8 @@ main{
         align-items: center;
         gap: 1.2em;
         a:is(:link, :visited) {
+            align-items: center;
+            color: white;
             border-radius: 20px 0 20px 0;
             background-color: rgb(83, 180, 83);
             display: flex;
