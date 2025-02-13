@@ -2,7 +2,7 @@
 ## ANALISIS Y DESARROLLO DE SOFTWARE
 ### Centro de Procesos Industriales y Construccion
 ---
-![hollow knight](https://tinyurl.com/yumrw4sy)
+![jordan](https://images3.alphacoders.com/278/thumb-1920-278449.jpg)
 
 [files drive ADSO](https://tinyurl.com/4657t2vw)
 
