@@ -75,6 +75,7 @@ body{
     font-family: var(--font-family);
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     align-items: center;
     min-width: 100vh;
     background-color: var(--color-pri);
